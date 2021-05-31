@@ -7,5 +7,6 @@ def find_max_value(array)
   else
     max = array[index]
   end
+  
 
 end
